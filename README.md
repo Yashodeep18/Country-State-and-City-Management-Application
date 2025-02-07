@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 - 
 
 TO run project run comand : - npm  run dev
+HOST : -https://yashodeep18.github.io/Country-State-and-City-Management-Application/
